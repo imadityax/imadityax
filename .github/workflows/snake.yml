@@ -21,9 +21,7 @@ jobs:
         with:
           github_user_name: imadityax
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+             dist/github-contribution-grid-snake.svg?color_snake=white&color_dots=#bfd6f6,#8bb9ff,#5c9dff,#2f81f7,#1f6feb
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:

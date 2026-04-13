@@ -1,55 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Yadav;Full+Stack+Developer;Building+Scalable+Applications;Next.js+%7C+AWS+%7C+TypeScript+%7C+AI;Always+Learning+Always+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=ADITYA+YADAV;FULL+STACK+DEVELOPER;BUILDING+SCALABLE+SYSTEMS;NEXT.JS+%7C+AWS+%7C+TYPESCRIPT;REAL+WORLD+PRODUCT+BUILDER" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=ADITYA%20YADAV&fontColor=00F7FF&fontSize=48&animation=fadeIn&fontAlignY=38&desc=FAANG%20Level%20Developer%20Profile&descSize=18&descAlignY=58"/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ADITYA%20YADAV&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Real%20World%20Builder&descAlignY=60"/>
+### ⚡ FULL STACK ENGINEER • SYSTEM BUILDER • AI EXPLORER • PROBLEM SOLVER ⚡
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 SYSTEM_PROFILE.exe
 
 ```yaml
-Name: Aditya Yadav
-Role: Full Stack Developer
-Focus: Scalable Products + Internal Tools + Real-time Systems
-Current Stack: Next.js, TypeScript, Prisma, AWS
-Passion: Building things that solve real problems
-Open To: Internships | Freelance | Full-time Opportunities
-```
+name: Aditya Yadav
+role: Full Stack Developer
+specialization:
+  - Frontend Architecture
+  - Backend APIs
+  - Real-time Systems
+  - Internal Tools
+  - AI Integrations
 
-- 🔥 Built production apps and internal systems  
-- ⚡ Strong in frontend + backend + deployment  
-- 🧠 Good foundation in DSA / System Design  
-- 🌍 Love solving real business problems with code  
-- 🚀 Always improving every month  
+current_stack:
+  - Next.js
+  - TypeScript
+  - Node.js
+  - Prisma
+  - MongoDB
+  - PostgreSQL
+  - AWS
+
+status: Open To Work
+mission: Build products that scale
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT_PROTOCOLS
 
 <p align="center">
 <a href="mailto:adityayadav6661@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 <a href="https://github.com/imadityax">
-<img src="https://img.shields.io/badge/GitHub-imadityax-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-IMADITYAX-111111?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://linkedin.com/in/aditya6661">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ADITYA-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 </p>
 
 ---
 
-## ⚒️ Tech Arsenal
+## ⚔️ TECH_STACK.dll
 
 <div align="center">
 
@@ -59,70 +69,72 @@ Open To: Internships | Freelance | Full-time Opportunities
 
 ---
 
-## 🏆 Experience
+## 🚀 DEPLOYED_PROJECTS.log
 
-### 💼 Web Developer — Aaruchudar
-📅 Jun 2025 – Jan 2026
+### 🏢 Aaruchudar Management System
 
-- Built official website and internal tools  
-- Improved UI/UX and reusable components  
-- Worked with managers and leads on production systems
+```diff
++ Enterprise internal platform
++ Attendance + leave + tasks
++ Multi-role architecture
++ Google OAuth + JWT
++ Production Ready
+```
 
-### 🎥 Freelance Content Creator — DSA Channel
+### 🎮 Bingo Real-time Multiplayer
 
-- Created beginner-friendly DSA videos  
-- Simplified coding interviews + problem solving
-
-(Info adapted from your CV :contentReference[oaicite:0]{index=0})
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 Aaruchudar Management System (AMS)
-
-✔ Multi-role enterprise dashboard  
-✔ Attendance + Leave + Task Management  
-✔ Google OAuth + JWT  
-✔ Real-time tracking
-
-**Stack:** Next.js • Prisma • MongoDB • TypeScript
-
----
-
-### 🎮 Bingo Multiplayer Game
-
-✔ Real-time WebSocket gameplay  
-✔ 100+ concurrent users  
-✔ AWS deployed  
-✔ 99.9% uptime
-
----
+```diff
++ WebSocket powered gameplay
++ 100+ concurrent users
++ AWS deployed
++ High uptime architecture
+```
 
 ### 🤖 QuickScan AI
 
-✔ PDF summarizer  
-✔ Risk / obligations extraction  
-✔ Gemini API powered
-
-(Projects adapted from your CV :contentReference[oaicite:1]{index=1})
+```diff
++ Smart PDF summarizer
++ Risk + obligation extraction
++ Gemini API integration
++ Productivity focused
+```
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GITHUB_ANALYTICS.sys
 
-<p align="center">
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imadityax&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=imadityax&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadityax&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 CONTRIBUTION_MATRIX
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadityax&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imadityax&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 ACHIEVEMENTS.unlock
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=imadityax&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+## 🐍 SNAKE_PROTOCOL
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/imadityax/imadityax/output/github-contribution-grid-snake-dark.svg"/>
@@ -130,17 +142,30 @@ Open To: Internships | Freelance | Full-time Opportunities
 
 ---
 
-## 🧠 Quote I Follow
+## 🎯 CURRENT_TARGETS.md
+
+```yaml
+2026_goals:
+  - Crack top product company role
+  - Build SaaS products
+  - Master system design
+  - Become elite engineer
+  - Scale multiple revenue streams
+```
+
+---
+
+## 🧬 MINDSET
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> Build. Fail. Learn. Repeat. Scale.
 
 </div>
 
 ---
 
-## 👀 Visitors
+## 👁 VISITOR_SCAN
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=imadityax&style=for-the-badge&color=blueviolet"/>
@@ -148,17 +173,4 @@ Open To: Internships | Freelance | Full-time Opportunities
 
 ---
 
-## 🎓 Education
-
-🎓 Lovely Professional University  
-B.Tech CSE — CGPA: 6.46 / 10 :contentReference[oaicite:2]{index=2}
-
----
-
-<div align="center">
-
-## ⚡ “I don’t just write code. I build impact.”
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
